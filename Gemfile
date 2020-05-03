@@ -11,6 +11,7 @@ gem "pg"
 gem "redcarpet"
 gem "sentry-raven"
 gem "unicorn"
+gem "sassc-rails"
 
 group :development, :test do
   gem "appraisal"
